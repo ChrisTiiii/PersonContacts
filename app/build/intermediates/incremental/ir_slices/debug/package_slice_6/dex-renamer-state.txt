@@ -1,0 +1,4 @@
+#Thu Mar 21 11:38:45 CST 2019
+base.0=E\:\\PersonContacts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
